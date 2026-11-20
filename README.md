@@ -6,6 +6,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:172554,100:2563EB&height=220&section=header&text=NO%20COMMENT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Building%20ideas%20into%20working%20systems&descAlignY=60&descSize=16" width="100%" alt="NO COMMENT banner" />
+<img src="./nocommnt%20banner.jpg" width="100%" alt="NO COMMENT banner" />
 
 <p>
   <b>Developer</b> &nbsp;•&nbsp;
